@@ -1,0 +1,6 @@
+Graph Structure- Adjacency matrix, O(V^2) space used
+
+				Adjacency list- O(2*E) space complexity for undirected graph
+				
+Key points- Make visited boolean array
+			Make a queue and add a source and loop it untill all are visited.
