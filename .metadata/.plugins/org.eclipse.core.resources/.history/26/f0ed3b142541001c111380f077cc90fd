@@ -132,7 +132,7 @@ public class Graph {
 		Scanner sc=new Scanner(System.in);
 		
 		System.out.println("Enter number of vertices and edges");
- 		int v=sc.nextInt();
+		int v=sc.nextInt();
 		int e=sc.nextInt();
 		
 		Graph graph=new Graph(v);
