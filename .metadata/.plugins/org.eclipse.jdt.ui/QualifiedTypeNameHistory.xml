@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.security.PublicKey"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.management.Query"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="javax.xml.transform.Source"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="com.graphs.Graph"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.Generics.MyList"/>
+    <fullyQualifiedTypeName name="com.LinkedList.MyLL"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="vectorAndStacks.MyStack"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.LinkedList.MyLL.Node"/>
+    <fullyQualifiedTypeName name="Queue.MyQueue"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="dequeue.DeQueue.Node"/>
+    <fullyQualifiedTypeName name="dequeue.DeQueue"/>
+    <fullyQualifiedTypeName name="interviewQuestions.slidingWindowMaximum"/>
+    <fullyQualifiedTypeName name="interviewQuestions.slidingWindowMaximum.Solution"/>
+    <fullyQualifiedTypeName name="interviewQuestions.Dequeue"/>
+    <fullyQualifiedTypeName name="java.util.Deque"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="interviewQuestions.practice.Solution"/>
+    <fullyQualifiedTypeName name="interviewQuestions.practice.Solution2"/>
 </qualifiedTypeNameHistroy>
