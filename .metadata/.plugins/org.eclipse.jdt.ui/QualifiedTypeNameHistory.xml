@@ -22,8 +22,15 @@
     <fullyQualifiedTypeName name="interviewQuestions.slidingWindowMaximum.Solution"/>
     <fullyQualifiedTypeName name="interviewQuestions.Dequeue"/>
     <fullyQualifiedTypeName name="java.util.Deque"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="interviewQuestions.practice.Solution"/>
     <fullyQualifiedTypeName name="interviewQuestions.practice.Solution2"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="maps.HashCodeAndEquals.Pen"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
